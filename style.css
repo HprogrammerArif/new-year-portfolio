@@ -1,5 +1,6 @@
+
 .banner {
-  max-width: 1200px;
+  max-width: 1400px;
   position: relative;
   margin: 0 auto;
 }
@@ -27,4 +28,126 @@
   border-radius: 5px;
   padding: 15px 25px;
   font-size: 1rem;
+}
+.previous-failuar-section {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  margin: 0 auto;
+  padding: 20px;
+  max-width: 1370px;
+  background:#e2f1f4;
+}
+.img-section img {
+  width: 500px;
+}
+.failuar-section {
+  margin: 0px 90px;
+  padding: 0px 130px 0px 50px;
+}
+.failure-heading {
+  font-size: 4rem;
+}
+.failure-content {
+  font-size: 1.5rem;
+  margin-top:0;
+  padding-top:0;
+}
+.ul-setup li{
+  font-size: 1.2rem;
+  list-style:square;
+}
+.failuar-section ul li {
+  margin-bottom: 10px;
+}
+.my-plan-heading {
+  font-size: 40px;
+  text-align: center;
+  padding: 100px 0px;
+}
+.plan-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.my-plan-section {
+  margin: 100px 100px;
+}
+.web, .javascript, .smoking, .ecommarce {
+  text-align: center;
+}
+.my-plan-section {
+   margin: 0px auto;
+   max-width: 1370px;
+}
+.plan-img {
+  position:relative;
+}
+.plan-img img {
+  position: absolute;
+}
+.plan-img img {
+  width: 1375px;
+}
+.mindset {
+  position: absolute;
+  text-align: start;
+  margin-top: 50px;
+  margin-left: 50px;
+}
+.mindset-heading {
+  color: #fff;
+  font-size: 3rem;
+  max-width: 500px;
+}
+.margin-purpose {
+  margin-bottom: 420px;
+}
+.footer-section {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  
+}
+.footer-section {
+  max-width: 1400px;
+  background-color: black;
+  color: #fff;
+  margin: 0 auto;
+  padding: 100px 0px;
+}
+
+.footer-heading {
+  font-size: 4rem;
+}
+.footer-para {
+  font-size: 1.2rem;
+  padding-right: 30px;
+}
+.column1 {
+padding-right: 200px;
+padding-left: 100px;
+}
+.column2 {
+ margin-right: 200px;
+  padding-right: 100px;
+  
+}
+.column2-heading {
+  font-size: 3rem;
+  margin-top: 0;
+  margin-bottom: 15px;
+}
+#email {
+  background: none;
+  border: 2px solid white;
+  padding: 20px;
+  border-radius: 8px;
+  margin-top: 0;
+  margin-bottom: 15px;
+}
+#Subscribe{
+  background-color: rgb(3, 104, 187);
+  color: #fff;
+  font-size: 1.2rem;
 }
